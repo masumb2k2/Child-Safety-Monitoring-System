@@ -1,21 +1,56 @@
-🚨 AI-Powered Child Safety Monitoring System
-A comprehensive computer vision-based surveillance system that uses YOLO object detection to monitor and alert about potential safety hazards for children in real-time.
+# 👶 Child Safety Surveillance System
 
-✨ Features
-🔍 Real-Time Hazard Detection
-Dangerous Objects: Alerts when children touch knives or scissors
+## 📖 Overview
+The **Child Safety Surveillance System** is an advanced **AI-powered monitoring solution** that uses **YOLO object detection** and **computer vision** to detect potential safety hazards for children in **real-time**.  
+The system analyzes live or recorded video feeds to identify dangerous situations and immediately alerts caregivers.
 
-Restricted Zones: Monitors proximity to fire sources and stairs
+---
 
-Safe Play: Recognizes toys as safe objects (no false alarms)
+## 🎯 Key Problem Solved
+Traditional surveillance systems require **constant human monitoring**, which is time-consuming and error-prone.  
+This system **automates threat detection** for common child safety scenarios, including:
 
-Door Security: Tracks suspicious movements near open doors
+- 🔪 Children accessing **dangerous objects** (e.g., knives, scissors)
+- 🔥 Unsupervised proximity to **hazards** (fire, stairs)
+- 🚪 **Suspicious movement patterns** near exits
+- 🚫 Children alone in **restricted areas**
 
-🎯 Advanced Capabilities
-Object Tracking: Continuously tracks people and objects across frames
+---
 
-Trajectory Analysis: Analyzes movement patterns for suspicious behavior
+## 🚀 Features
+- Real-time video analysis
+- YOLO-based object detection
+- Automated alert system
+- Reduced need for manual monitoring
+- Scalable for homes, schools, and daycare centers
 
-Proximity Detection: Calculates distances between objects in real-time
+---
 
-Persistent Alerts: Maintains alert status for ongoing threats
+## 🧠 Technologies Used
+- Python
+- YOLO (You Only Look Once)
+- OpenCV
+- Computer Vision
+- Deep Learning
+
+---
+
+## 📌 Use Cases
+- Home child monitoring
+- Daycare safety systems
+- School surveillance
+- Childcare centers
+
+---
+
+## 📢 Future Improvements
+- Mobile app notifications
+- Face recognition for child identification
+- Cloud-based monitoring dashboard
+- Audio-based anomaly detection
+
+---
+
+## 🧑‍💻 Author
+**Masum Billah**
+
